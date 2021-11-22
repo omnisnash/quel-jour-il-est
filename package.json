@@ -7,7 +7,7 @@
     "url": "https://github.com/omnisnash"
   },
   "license": "MIT",
-  "homepage": "https://omnisnash.github.io/quel-jour-il-est",
+  "homepage": "https://queljourilest.fr",
   "dependencies": {
     "@types/node": "^12.20.37",
     "@types/react": "^17.0.34",
