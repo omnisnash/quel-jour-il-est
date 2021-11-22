@@ -1,0 +1,27 @@
+{
+    "days": {
+        "1": [
+            {"lang": "en", "url": "https://twitter.com/maximoffmondays/status/1455037132230184960"}
+        ], 
+        "2": [
+            {"lang": "fr", "url": "https://twitter.com/FatalTuesday/status/1455444573392678919"}
+        ], 
+        "3": [
+            {"lang": "en", "url": "https://twitter.com/whataweekhuh/status/1458402557655724037"}
+        ], 
+        "4": [
+            {"lang": "en", "url": "https://twitter.com/thursaconcept/status/1458803036940378113"},
+            {"lang": "en", "url": "https://twitter.com/it_thursday/status/1458945908327002121"}
+        ], 
+        "5": [
+            {"lang": "en", "url": "https://twitter.com/YakuzaFriday/status/1459183703654076435"}
+        ], 
+        "6": [
+            {"lang": "en", "url": "https://twitter.com/MargotWeekend/status/1459289645569560576"}
+        ], 
+        "7": [
+            {"lang": "en", "url": "https://twitter.com/CraigWeekend/status/1459310127324950533"},
+            {"lang": "fr", "url": "https://twitter.com/Cest_Dimanche/status/1444618239691014144"}
+        ]
+    }
+}

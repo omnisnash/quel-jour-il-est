@@ -1,0 +1,19 @@
+body {
+  margin: 48px 12px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: #cfd9de;
+  text-align: center;
+}
+
+.current-day {
+  background: #36a6df;
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 3px;
+  color: white;
+}
