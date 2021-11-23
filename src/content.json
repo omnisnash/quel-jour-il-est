@@ -1,7 +1,8 @@
 {
     "days": {
         "1": [
-            {"lang": "en", "url": "https://twitter.com/maximoffmondays/status/1455037132230184960"}
+            {"lang": "en", "url": "https://twitter.com/maximoffmondays/status/1455037132230184960"},
+            {"lang": "en", "url": "https://twitter.com/elliottgray/status/1462892961587286016"}
         ], 
         "2": [
             {"lang": "fr", "url": "https://twitter.com/FatalTuesday/status/1455444573392678919"}
@@ -15,10 +16,11 @@
         ], 
         "5": [
             {"lang": "en", "url": "https://twitter.com/YakuzaFriday/status/1459183703654076435"},
-            {"lang": "fr", "url": "https://twitter.com/MegaDrago79/status/1441371848349044736"}
+            {"lang": "fr", "url": "https://twitter.com/B_N_S_V_/status/1461770146511560706"}
         ], 
         "6": [
-            {"lang": "en", "url": "https://twitter.com/MargotWeekend/status/1459289645569560576"}
+            {"lang": "en", "url": "https://twitter.com/MargotWeekend/status/1459289645569560576"},
+            {"lang": "fr", "url": "https://twitter.com/WebmagTv/status/723557084961341440"}
         ], 
         "7": [
             {"lang": "en", "url": "https://twitter.com/CraigWeekend/status/1459310127324950533"},
